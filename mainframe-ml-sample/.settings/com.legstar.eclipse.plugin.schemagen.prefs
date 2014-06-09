@@ -1,4 +1,0 @@
-com.legstar.eclipse.plugin.schemagen.cobolCode=\        01  CUST-RECORD.\n           05 CUST-ID                  PIC 9(5) COMP-3.\r\n           05 CUST-NAME.\r\n              10 CUST-LAST-NAME       PIC X(15).\r\n              10 CUST-FIRST-NAME      PIC X(10).\r\n           05 STREET-ADDRESS    PIC X(20).\r\n           05 CITY       PIC X(20).\r\n           05 US-STATE                        PIC  X(02).\n           05 OTHER-STATE-PROVINCE    PIC X(20).\n           05 COUNTRY-CODE    PIC X(3).\r\n           05 POSTAL-CODE                  PIC X(10).\n           05 NOTES    PIC X(40).\n
-eclipse.preferences.version=1
-targetNamespace=http\://coxb.test.legstar.com/custrecord
-targetXsdFileName=CustRecord.xsd
